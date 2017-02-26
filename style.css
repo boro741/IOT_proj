@@ -1,0 +1,79 @@
+.center {
+    text-align: center;
+}
+
+#title {
+    font-family: cursive;
+   font-size: 50px;    
+}
+
+.buttons-pos {
+    padding-top: 50px;
+}
+
+.buttons-design {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    border-radius: 12px;
+}
+
+#on {
+    background-color: green;
+}
+
+#off {
+    background-color: red;
+}
+.container {
+    max-width: 1000px;
+    margin: 0px auto;
+    color: gray;
+    font-family: sans-serif;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#room1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: red;
+    max-width: 250px;
+    margin: 10px;
+}
+
+#room2 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: skyblue;
+    max-width: 250px;
+    margin: 10px;
+}
+
+#room3 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: green;
+    max-width: 250px;
+    margin: 10px;
+}
+
+#room4 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: mediumorchid;
+    max-width: 250px;
+    margin: 10px;
+}
